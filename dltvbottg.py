@@ -2,7 +2,6 @@ import telebot
 from games import live, upcoming, results, userans
 from datetime import datetime, timedelta
 
-bot = telebot.TeleBot('6481972129:AAFrjvY6nd4KM5vAT0RPSLq6uE1zlu9BaoY')
 bot = telebot.TeleBot('tgtoken')
 
 
